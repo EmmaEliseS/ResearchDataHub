@@ -12,11 +12,12 @@ In short, you can think of the RDH as a spider in the web (a middleware with an 
 - Ingests and manages metadata from different sources (e.g., RMS and lab or research journals) in a central repository; 
 - Facilitates the publication of metadata (sometimes with datasets) in internal databases/ catalogues such as Figshare, Pure/UvA Dare, or external repositories such as OSF, DANS, Zenodo, etc.
 
-## Explore
+## Documentation Links
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
+  {{< card link="docs" title="Full Proposal" icon="book-open" >}}
+  {{< card link="about" title="RDH Journeys" icon="user" >}}
+  {{< card link="about" title="One Pager" icon="user" >}}
 {{< /cards >}}
 
 ## Documentation
