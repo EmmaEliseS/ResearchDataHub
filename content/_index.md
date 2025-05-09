@@ -24,7 +24,7 @@ In short, you can think of the RDH as a spider in the web (a middleware with an 
 
 This project is a collaboration between the **University Library**, the **ICTS department**, and the **Faculty of Social and Behavioural Sciences (FMG)**. 
 
-The following people are part of the project team:
+The project team consists of the following members:
 - Jörgen Moorlag (Project Lead at the Library)
 - Olaf Zwennes (Programmer at the Library)
 - Tako Horsley (Domain Architect at ICTS)
@@ -34,11 +34,3 @@ The following people are part of the project team:
 - Rachid Igharghar (Product Designer at ICTS)
 - Dimitri Duindam (Solution Architect at ICTS)
 - Jasper Bedaux (Library)
-
-The steering committee consists of the following members:
-
-- Frans Oort (Open Science Coordinator and Professor at the FMG)
-- Josefien Schuurman (
-- Bas Kroon
-
-
