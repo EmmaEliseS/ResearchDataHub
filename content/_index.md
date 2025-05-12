@@ -25,12 +25,12 @@ In short, you can think of the RDH as a spider in the web (a middleware with an 
 This project is a collaboration between the **University Library**, the **ICTS department**, and the **Faculty of Social and Behavioural Sciences (FMG)**. 
 
 The project team consists of the following members:
-- Jörgen Moorlag (Project Lead at the Library)
-- Olaf Zwennes (Programmer at the Library)
-- Tako Horsley (Domain Architect at ICTS)
-- Emma Schreurs (Data Steward at the FMG and Interoperability Community Manager at the Library)
-- Georgette Dekker (Product Lead at ICTS)
-- Karin Beijering (RDM specialist at the Library)
-- Rachid Igharghar (Product Designer at ICTS)
-- Dimitri Duindam (Solution Architect at ICTS)
-- Jasper Bedaux (Library)
+- Jörgen Moorlag - *Project Lead at the Library*
+- Olaf Zwennes - *Programmer at the Library*
+- Tako Horsley - *Domain Architect at ICTS*
+- Emma Schreurs - *Data Steward at the FMG and Interoperability Community Manager at the Library*
+- Georgette Dekker - *Product Lead at ICTS*
+- Karin Beijering - *RDM specialist at the Library*
+- Rachid Igharghar - *Product Designer at ICTS*
+- Dimitri Duindam - *Solution Architect at ICTS*
+- Jasper Bedaux - *Library*
