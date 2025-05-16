@@ -3,7 +3,7 @@ title: "RDH: Research Data Hub"
 toc: true
 ---
 # Introduction
-The University of Amsterdam (UvA) is committed and responsible for the careful handling of research data, from project registration to the archiving and dissemination of valuable outcomes. Given the advancements in Open Science, prioritizing transparency and the reuse of research data are very important. To achieve this the UvA should follow the FAIR principles: research data should be Findable, Accessible, Interoperable and Re-usable. Of course, there may be valid reasons not to make data openly available; the principle here is as open as possible, but as closed as necessary. 
+The University of Amsterdam (UvA) is committed and responsible for the careful handling of research data, from project registration to the archiving and dissemination of valuable outcomes. Given the advancements in Open Science, prioritizing transparency and the reuse of research data are very important. To achieve this the UvA should follow the FAIR principles: research data should be Findable, Accessible, Interoperable and Re-usable. Of course, there may be valid reasons not to make data openly available; the principle here is as open as possible, but as closed as necessary.
 
 While progress is made in implementing RDM policies, support, and infrastructures, research data are still archived and published insufficiently. This concern emphasizes the need for the UvA to improve data deposition practices. To address this, the ‘Research Data Hub’ (RDH) project seeks to streamline and automate archiving and publication processes as much as possible. With the aim to ensure efficient data management which relieves the burden on researchers and support staff. 
 
