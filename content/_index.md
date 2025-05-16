@@ -5,7 +5,7 @@ toc: true
 
 <p style="text-align: center;">University of Amsterdam</p>
 
-## Introduction
+## About
 
 The University of Amsterdam (UvA) is committed and responsible for the careful handling of research data, from project registration to the archiving and dissemination of valuable outcomes. Given the advancements in Open Science, prioritizing transparency and the reuse of research data are very important. To achieve this the UvA should follow the FAIR principles: research data should be Findable, Accessible, Interoperable and Re-usable. Of course, there may be valid reasons not to make data openly available; the principle here is as open as possible, but as closed as necessary.
 
