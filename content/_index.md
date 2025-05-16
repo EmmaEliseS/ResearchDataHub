@@ -2,7 +2,11 @@
 title: "RDH: Research Data Hub"
 toc: true
 ---
-# Introduction
+
+<p style="text-align: center;">University of Amsterdam</p>
+
+## Introduction
+
 The University of Amsterdam (UvA) is committed and responsible for the careful handling of research data, from project registration to the archiving and dissemination of valuable outcomes. Given the advancements in Open Science, prioritizing transparency and the reuse of research data are very important. To achieve this the UvA should follow the FAIR principles: research data should be Findable, Accessible, Interoperable and Re-usable. Of course, there may be valid reasons not to make data openly available; the principle here is as open as possible, but as closed as necessary.
 
 While progress is made in implementing RDM policies, support, and infrastructures, research data are still archived and published insufficiently. This concern emphasizes the need for the UvA to improve data deposition practices. To address this, the ‘Research Data Hub’ (RDH) project seeks to streamline and automate archiving and publication processes as much as possible. With the aim to ensure efficient data management which relieves the burden on researchers and support staff. 
@@ -22,15 +26,20 @@ In short, you can think of the RDH as a spider in the web (a middleware with an 
 
 ## Project Team
 
-This project is a collaboration between the **University Library**, the **ICTS department**, and the **Faculty of Social and Behavioural Sciences (FMG)**. 
+This project is a collaboration between the **University Library**, the **ICTS department**, and the **Faculty of Social and Behavioural Sciences (FMG)**. The project team consists of the following members:
 
-The project team consists of the following members:
-- Jörgen Moorlag - *Project Lead at the Library*
-- Olaf Zwennes - *Programmer at the Library*
-- Tako Horsley - *Domain Architect at ICTS*
-- Emma Schreurs - *Data Steward at the FMG and Interoperability Community Manager at the Library*
-- Georgette Dekker - *Product Lead at ICTS*
-- Karin Beijering - *RDM specialist at the Library*
-- Rachid Igharghar - *Product Designer at ICTS*
-- Dimitri Duindam - *Solution Architect at ICTS*
-- Jasper Bedaux - *Library*
+| Name              | Function           | Works at             |
+| :-----------------: |:------------------:| :--------------------:|
+| Jörgen Moorlag    | Project Lead       | Library              |
+| Olaf Zwennes      | Tech Lead          | Library              |
+| Tako Horsley      | Domain Architect   | ICTS                 |
+| Emma Schreurs     | Interoperability Community Manager & Data Steward       | Library & FMG             |
+| Georgette Dekker      | Product Lead          | ICTS              |
+| Karin Beijering      | RDM Specialist   | Library                 |
+| Rachid Igharghar      | Product Designer          | ICTS              |
+| Dimitri Duindam      | Solution Architect   | ICTS                 |
+| Jasper Badaux      | Architect   | Library                 |
+| Rachael van der Moezel      | Metadata Specialist   | Library                 |
+
+
+
