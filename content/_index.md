@@ -40,6 +40,16 @@ This project is a collaboration between the **University Library**, the **ICTS d
 | Dimitri Duindam      | Solution Architect   | ICTS                 |
 | Jasper Badaux      | Architect   | Library                 |
 | Rachael van der Moezel      | Metadata Specialist   | Library                 |
+| Zahay Boukich      | Software Engineer   | Library                 |
+| Tim Fierens      | Software Engineer   | ICTS                 |
 
+## Steering Committee
 
+The RDH project has a steering committee that consists of the following members:
 
+| Name              | Function           | Works at             |
+| :-----------------: |:------------------:| :--------------------:|
+| Frans Oort    | Open Science Coördinator       | FMG              |
+| Josefien Schuurman      | Department Head          | Library              |
+| Bas Kroon      | Department Head   | ICTS                 |
+| Charmian Fokkens      | Department Head          | Library              |
