@@ -47,7 +47,7 @@ This project is a collaboration between the **University Library**, the **ICTS d
 
 The RDH project has a steering committee that consists of the following members:
 
-| Name              | Function           | Works at             |
+| Name              | Function           | Works at                     |
 | :-----------------: |:------------------:| :--------------------:|
 | Frans Oort    | Open Science Coördinator & Professor of Methods and Statistics      | FMG              |
 | Josefien Schuurman      | Head Digital Infrastructure          | Library              |
