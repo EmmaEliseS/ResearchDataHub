@@ -21,7 +21,7 @@ In short, you can think of the RDH as a spider in the web (a middleware with an 
 {{< cards >}}
   {{< card link="https://doi.org/10.5281/zenodo.11201002" title="Full Proposal" icon="document-text" >}}
   {{< card link="https://doi.org/10.5281/zenodo.15371048" title="RDH Journeys" icon="document-text" >}}
-  {{< card link="about" title="One Pager" icon="user" >}}
+  {{< card link="https://doi.org/10.5281/zenodo.15647562" title="Functional Design (NL)" icon="document-text" >}}
 {{< /cards >}}
 
 ## Project Team
