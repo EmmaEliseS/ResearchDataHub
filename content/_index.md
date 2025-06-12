@@ -51,5 +51,5 @@ The RDH project has a steering committee that consists of the following members:
 | :-----------------: |:------------------:| :--------------------:|
 | Frans Oort    | Open Science Coördinator & Professor of Methods and Statistics      | FMG              |
 | Josefien Schuurman      | Head Digital Infrastructure          | Library              |
-| Bas Kroon      | Head Research IT   | ICTS                 |
+| Bas Kroon      | Domain Lead Research   | ICTS                 |
 | Charmian Fokkens      | Head Research & Educational Support          | Library              |
