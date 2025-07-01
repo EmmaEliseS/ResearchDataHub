@@ -38,7 +38,7 @@ This project is a collaboration between the **University Library**, the **ICTS d
 | Karin Beijering      | RDM Specialist   | Library                 |
 | Rachid Igharghar      | Product Designer          | ICTS              |
 | Dimitri Duindam      | Solution Architect   | ICTS                 |
-| Jasper Badaux      | Architect   | Library                 |
+| Jasper Bedaux      | Architect   | Library                 |
 | Rachael van der Moezel      | Metadata Specialist   | Library                 |
 | Zahay Boukich      | Software Engineer   | Library                 |
 | Tim Fierens      | Software Engineer   | ICTS                 |
