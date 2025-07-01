@@ -15,7 +15,7 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
-
+    
 menu:
   main:
     - name: Home
